@@ -1,4 +1,3 @@
-
 .introducao {
   max-width: 1200px;
   padding: 40px 20px;
@@ -52,7 +51,7 @@
   .introducao h1::before {
     width: 30px;
     height: 10px;
-    left: 0px';
+    left: 0px;
   }
 }
 
